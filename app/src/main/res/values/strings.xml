@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Umpire Buddy v1.0</string>
+    <string name="current_count_ball">Current Count: </string>
+    <string name="current_count_strike">Current count: </string>
+</resources>
